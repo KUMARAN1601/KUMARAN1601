@@ -18,20 +18,16 @@
 			<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="60"/>
 		</td>
 		<td >
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulnz6YBuAJR2Mhu23faS3DfvtdhVtJEfcht_A0K3bCUFCnaSe_NtM5eY_O_MMnTmRm6c&usqp=CAU
-" width="60"/>
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulnz6YBuAJR2Mhu23faS3DfvtdhVtJEfcht_A0K3bCUFCnaSe_NtM5eY_O_MMnTmRm6c&usqp=CAU" width="60"/>
 		</td>
 		<td >
-			<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png
-" width="60"/>
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="60"/>
 		</td>
 		<td >
-			<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png
-" width="60"/>
+			<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="60"/>
 		</td>
 		<td >
-			<img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/icons/react.png
-" width="60"/>
+			<img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/icons/react.png" width="60"/>
 		</td>
 		<td>
 			<img src="https://v4.mui.com/static/logo.png" width="60"/>
