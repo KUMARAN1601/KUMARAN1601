@@ -3,4 +3,5 @@
 
 ## <a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumaran&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUMARAN1601&layout=compact"/>
+
