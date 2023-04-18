@@ -15,23 +15,22 @@
 <table >
 	<tr align="center">
 		<td>
-			<img src="![image](https://user-images.githubusercontent.com/94185252/232866880-5c7e44a9-a85b-4093-b598-e1a581c41b0e.png)
+			<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="60"/>
+		</td>
+		<td >
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQulnz6YBuAJR2Mhu23faS3DfvtdhVtJEfcht_A0K3bCUFCnaSe_NtM5eY_O_MMnTmRm6c&usqp=CAU
 " width="60"/>
 		</td>
 		<td >
-			<img src="![image](https://user-images.githubusercontent.com/94185252/232866684-c2365bd3-66ae-4c86-a1be-95ee61f9b306.png)
+			<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png
 " width="60"/>
 		</td>
 		<td >
-			<img src="![image](https://user-images.githubusercontent.com/94185252/232866981-28030e43-f28a-415e-9aa1-31f3bb508157.png)
+			<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png
 " width="60"/>
 		</td>
 		<td >
-			<img src="![image](https://user-images.githubusercontent.com/94185252/232867133-7d21933b-936c-43cf-a803-9c447678134e.png)
-" width="60"/>
-		</td>
-		<td >
-			<img src="![image](https://user-images.githubusercontent.com/94185252/232867220-1e92ec6b-2761-4398-8e65-7c32783a7490.png)
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
 " width="60"/>
 		</td>
 		<td>
