@@ -30,7 +30,7 @@
 " width="60"/>
 		</td>
 		<td >
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png
+			<img src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/icons/react.png
 " width="60"/>
 		</td>
 		<td>
