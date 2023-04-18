@@ -1,3 +1,3 @@
-### Hi there, I'm Kumaran! 👋
+#👋 Hi there, I'm Kumaran! 
 
-https://kumaran-dev.netlify.app/ - Visit my portfolio
+### https://kumaran-dev.netlify.app/ - Visit my portfolio
