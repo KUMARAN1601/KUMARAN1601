@@ -1,6 +1,7 @@
 
 # Welcome to My GitHub Profile!</a> 
-# About Me   <img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat">
+# About Me   
+<!-- <img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat"> -->
 ## <a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KUMARAN1601&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
