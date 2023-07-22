@@ -1,6 +1,6 @@
 
-# Welcome to My GitHub Profile!</a> 
-# About Me   
+## Welcome to My GitHub Profile!</a> 
+## About Me   
 <!-- <img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat"> -->
 ## <a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio
 
