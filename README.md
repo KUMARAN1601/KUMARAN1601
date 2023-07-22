@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile!</a> 
 ## About Me   
-### <p>Hey there! I'm Kumaran, a passionate MERN stack developer with an intermediate level of expertise. I have a strong background in building web applications using modern technologies and tools.</p>
+<p>Hey there! I'm Kumaran, a passionate MERN stack developer with an intermediate level of expertise. I have a strong background in building web applications using modern technologies and tools.</p>
 <!-- <img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat"> -->
 ## <a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio
 
