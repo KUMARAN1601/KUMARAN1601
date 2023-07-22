@@ -3,7 +3,7 @@
 ## About Me   
 <p>Hey there! I'm Kumaran, a dedicated MERN stack developer with considerable expertise. My journey has been focused on crafting web applications using the latest technologies and tools. Alongside my web development prowess, I'm expanding my skillset to include the captivating world of data analytics.</p>
 <!-- <img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat"> -->
-## <a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio
+<p><a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio</p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KUMARAN1601&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
 
