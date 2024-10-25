@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile!</a> 
 ## About Me   
-<p>Hey there! I'm Kumaran, a dedicated MERN stack developer with considerable expertise. I have a solid background in web applications using the latest technologies and tools. Alongside my web development prowess, I'm expanding my skillset to include the captivating world of data analytics.</p>
+<p>Hey there! I'm Kumaran, With a solid command of Java, Spring Boot, and SQL, I specialize in crafting powerful backend solutions that drive seamless performance and scalability. My focus is on transforming complex requirements into efficient, reliable applications. Passionate about backend development, I'm committed to advancing my skills and staying on the cutting edge of industry advancements to deliver the best possible solutions.</p>
 <img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat"> 
 <p><a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio</p>
 
