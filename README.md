@@ -10,8 +10,8 @@
 <!-- ![Kumaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMARAN1601&show_icons=true&theme=radical&layout=compact) -->
   
 ## Get in Touch
-<p> I'm always open to collaboration and discussing exciting opportunities. If you'd like to get in touch with me, feel free to reach out via <a href="mailto:tekumarantselumali@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/kumaran-t-e-87b28b228">LinkedIn</a>.</p>
-<p>Looking forward to connecting with fellow developers and exploring new avenues together!</p>
+<p> I'm always open to collaboration and discussing exciting opportunities. If you'd like to get in touch with me, feel free to reach out via <a href="mailto:tekumarantselumali@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/kumarante/">LinkedIn</a>.</p>
+<!-- <p>Looking forward to connecting with fellow developers and exploring new avenues together!</p> -->
 <!-- ## Technologies I have used
 <table >
 	<tr align="center">
