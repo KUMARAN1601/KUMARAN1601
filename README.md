@@ -2,7 +2,8 @@
 # Welcome to My GitHub Profile!</a> 
 ## About Me   
 <p>Hey there! I'm Kumaran, With a solid command of Java, Spring Boot, and SQL, I specialize in crafting powerful backend solutions that drive seamless performance and scalability. My focus is on transforming complex requirements into efficient, reliable applications. Passionate about backend development, I'm committed to advancing my skills and staying on the cutting edge of industry advancements to deliver the best possible solutions.</p>
-<img align='right' src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif" height="" width="300" alt="coding cat"> 
+<img align='right' src="cat.gif" height="" width="300" alt="coding cat"> 
+<!-- https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif -->
 <p><a href="https://kumaran-dev.netlify.app/">Kumaran.dev</a> - Visit my portfolio</p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KUMARAN1601&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
